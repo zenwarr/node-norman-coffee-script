@@ -1,6 +1,6 @@
 {
   "name": "node-norman-coffee-script",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,6 @@
   "devDependencies": {
     "@types/node": "^10.5.2",
     "typescript": "^2.9.2",
-    "node-norman": "^1.0.9"
+    "node-norman": "^1.0.11"
   }
 }
