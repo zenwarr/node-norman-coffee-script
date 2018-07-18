@@ -4,7 +4,7 @@ import * as norman from "node-norman";
 const convertSourceMap = require("convert-source-map");
 
 
-export default class CoffeeScriptPlugin extends norman.Plugin {
+export default class CoffeeScriptPlugin {
   matches(filename: string, module: norman.ModuleInfo): boolean {
     return filename.endsWith(".coffee");
   }
