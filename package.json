@@ -1,0 +1,28 @@
+{
+  "name": "node-norman-coffee-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zenwarr/node-norman-coffee-script.git"
+  },
+  "author": "zenwarr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zenwarr/node-norman-coffee-script/issues"
+  },
+  "homepage": "https://github.com/zenwarr/node-norman-coffee-script#readme",
+  "dependencies": {
+    "coffee-script": "^1.12.7",
+    "convert-source-map": "^1.5.1",
+    "node-norman": "^1.0.9"
+  },
+  "devDependencies": {
+    "@types/node": "^10.5.2",
+    "typescript": "^2.9.2"
+  }
+}
